@@ -44,5 +44,21 @@ This dashboard can help:
 
 ---
 
+## 📁 Project Structure
+
+.
+├── data/                 # Folder containing raw and processed data files (if applicable)
+├── reports/              # Folder with exported reports or dashboard screenshots
+├── dashboard.pbix        # Power BI dashboard file
+├── README.md             # Project overview and documentation
+└── resources/            # Any additional resources like images, scripts, or notes
+
+ ---
+
+## 📷 Dashboard Preview
+
+[Dashboard Screenshot](images/ Distribited dashboard.png/ Sales Dashboard.png/ KPI Dashboard.png)
+
+
 
 
