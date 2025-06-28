@@ -48,9 +48,13 @@ This dashboard can help:
 
 .
 ├── data/                 # Folder containing raw and processed data files (if applicable)
+
 ├── reports/              # Folder with exported reports or dashboard screenshots
+
 ├── dashboard.pbix        # Power BI dashboard file
+
 ├── README.md             # Project overview and documentation
+
 └── resources/            # Any additional resources like images, scripts, or notes
 
  ---
