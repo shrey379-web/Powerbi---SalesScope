@@ -46,7 +46,7 @@ This dashboard can help:
 
 ## 📁 Project Structure
 
-.
+
 ├── data/                 # Folder containing raw and processed data files (if applicable)
 
 ├── reports/              # Folder with exported reports or dashboard screenshots
